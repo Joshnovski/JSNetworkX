@@ -20,7 +20,7 @@
     "email": "felix.kling@gmx.net",
     "url": "http://jsnetworkx.org/"
   },
-  "main": "node/index.js",
+  "main": "jsnetworkx.js",
   "dependencies": {
     "babel-runtime": "^5",
     "lodash": "^4.17.21",
